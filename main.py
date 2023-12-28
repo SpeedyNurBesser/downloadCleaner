@@ -12,7 +12,7 @@ QUICKLOOK = 'D:\Program Files\QuickLook\QuickLook.exe'
 VIDEO_TYPES = ['.mp4', '.mov', '.mkv']
 VIDEO = 'C:/Users/Ole/Videos'
 
-PICTURE_TYPES = ['.png','.jpg','.jpeg', '.webp', '.pdn']
+PICTURE_TYPES = ['.png','.jpg','.jpeg', '.webp', '.pdn', '.gif']
 PICTURE = 'C:/Users/Ole/Pictures'
 
 AUDIO_TYPES = ['.mp3', '.wav']
